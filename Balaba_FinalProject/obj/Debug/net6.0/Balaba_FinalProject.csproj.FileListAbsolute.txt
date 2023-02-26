@@ -1,0 +1,15 @@
+C:\Users\Andeng\Desktop\Balaba_FinalProject\bin\Debug\net6.0\Balaba_FinalProject.exe
+C:\Users\Andeng\Desktop\Balaba_FinalProject\bin\Debug\net6.0\Balaba_FinalProject.deps.json
+C:\Users\Andeng\Desktop\Balaba_FinalProject\bin\Debug\net6.0\Balaba_FinalProject.runtimeconfig.json
+C:\Users\Andeng\Desktop\Balaba_FinalProject\bin\Debug\net6.0\Balaba_FinalProject.dll
+C:\Users\Andeng\Desktop\Balaba_FinalProject\bin\Debug\net6.0\Balaba_FinalProject.pdb
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.AssemblyInfoInputs.cache
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.AssemblyInfo.cs
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.dll
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\refint\Balaba_FinalProject.dll
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.pdb
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\Balaba_FinalProject.genruntimeconfig.cache
+C:\Users\Andeng\Desktop\Balaba_FinalProject\obj\Debug\net6.0\ref\Balaba_FinalProject.dll

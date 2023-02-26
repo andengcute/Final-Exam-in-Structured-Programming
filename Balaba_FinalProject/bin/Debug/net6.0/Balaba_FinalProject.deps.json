@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Balaba_FinalProject/1.0.0": {
+        "runtime": {
+          "Balaba_FinalProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balaba_FinalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
